@@ -13,6 +13,13 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#ignore the following files
+*.sam 
+*.vcf 
+*.bam 
+*.bai 
+*.txt
+
 # Mono auto generated files
 mono_crash.*
 
